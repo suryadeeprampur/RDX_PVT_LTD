@@ -1,4 +1,3 @@
-from pyrogram import idle
 from datetime import datetime
 from pytz import timezone
 from pyrogram import Client, __version__
@@ -49,21 +48,16 @@ class Bot(Client):
             except:
                 print("Please Make This Is Admin In Your Log Channel")
 
+Bot().run()
 
 
 
-# @RDX_PVT_LTD
 
 
-import asyncio
 
-if __name__ == "__main__":
-    app = Bot()
-
-    async def main():
-        await app.start()
-        print("𝐑𝐃𝐗 Is Started.....✨️")
-        await idle()  # Keeps the bot running
-        await app.stop()
-
-    asyncio.run(main())
+# RDX Developer 
+# Don't Remove Credit 🥺
+# Telegram Channel @RDX_PVT_LTD
+# Backup Channel @RDX_PVT_LTD
+# Developer @RDX1444
+# Contact @RDX_PVT_LTD
