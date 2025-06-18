@@ -1,3 +1,4 @@
+from pyrogram import idle
 from datetime import datetime
 from pytz import timezone
 from pyrogram import Client, __version__
