@@ -63,7 +63,7 @@ if __name__ == "__main__":
     async def main():
         await app.start()
         print("𝐑𝐃𝐗 Is Started.....✨️")
-        await app.idle()  # Keeps the bot running
+        await idle()  # Keeps the bot running
         await app.stop()
 
     asyncio.run(main())
