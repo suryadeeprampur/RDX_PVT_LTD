@@ -1,4 +1,4 @@
-<img src="https://graph.org/file/77d2eddf9657a87acb881.jpg" alt="logo" target="/blank">
+<img src="https://graph.org/file/902fb76b04bedc8b293a7-59e28bf48b363720ba.jpg" alt="logo" target="/blank">
 
 <h1 align="center">
  <b><a href="https://t.me/Itachi_Rename_Robot" target="/blank"> Rename Bot 2GB </a></>
