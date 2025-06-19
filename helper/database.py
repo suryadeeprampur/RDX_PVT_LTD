@@ -14,10 +14,10 @@ class Database:
             _id=int(id),                                   
             file_id = None,
             caption = None,
-            prefix = None,
-            suffix = None,
-            metadata = False,
-            metadata_code = "By :- @RDX_PVT_LTD"
+            prefix = "@OnAnimeSeries",
+            suffix = "@OnAnimeSeries",
+            metadata = True,
+            metadata_code = "By :- @OnAnimeSeries"
         )
 
     async def add_user(self, b, m):
@@ -113,3 +113,12 @@ class Database:
 jishubotz = Database(Config.DATABASE_URL, Config.DATABASE_NAME)
 
 
+
+## Fixed by @VoidZero_Dev ##
+# RDX Developer 
+# Don't Remove Credit 🥺
+# Telegram Channel @RDX_PVT_LTD
+# Backup Channel @RDX_PVT_LTD
+# Developer @RDX1444
+# Contact @RDX1444
+## Fixed by @VoidZero_Dev ##
