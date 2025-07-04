@@ -113,8 +113,6 @@ class Database:
 jishubotz = Database(Config.DATABASE_URL, Config.DATABASE_NAME)
 
 
-
-## Fixed by @VoidZero_Dev ##
 # RDX Developer 
 # Don't Remove Credit 🥺
 # Telegram Channel @RDX_PVT_LTD
